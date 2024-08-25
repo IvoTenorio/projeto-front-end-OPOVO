@@ -10,7 +10,7 @@ JS
 
 Como foi feito
 
-no começo tive alguns problemas com o carousel, estava dando erro mesmo iniciando o jquery antes das outras funções, então acabei fazendo do meu jeito.
+no começo tive alguns problemas com o carousel, estava dando erro mesmo iniciando o jquery antes das outras funções, então acabei editando pelo css.
 
 Instalação
 
