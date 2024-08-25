@@ -17,10 +17,6 @@ Instalação
 baixar todos os arquivos do diretorio.
 criar uma pasta e e adicionar html.css, style.css e script.js na mesma pasta junto com a pasta ''imgs''.
 
-Capturas de Tela
-
-Todas as capturas de tela dos testes estão disponíveis na pasta imgs. Todos os códigos vão estar aqui para visualização.
-
 Desenvolvido por
 
 Ivo Tenório
