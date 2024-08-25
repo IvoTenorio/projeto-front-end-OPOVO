@@ -1,0 +1,132 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;700&family=Roboto:wght@400;700&display=swap');
+
+body {
+    font-family: 'Raleway', sans-serif;
+    background-color: #f0e5c8;
+    color: #4a3b3b;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #402404;
+    padding: 15px 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header img.logo {
+    height: 50px;
+}
+
+header nav ul {
+    list-style: none;
+    display: flex;
+    gap: 25px;
+    margin: 0;
+    padding: 0;
+}
+
+header nav ul li {
+    color: #f7f3e9;
+    font-weight: 700;
+    cursor: pointer;
+}
+
+.main-content {
+    display: flex;
+    margin: 30px;
+}
+
+.poster img {
+    max-width: 350px;
+    border-radius: 10px;
+}
+
+.details {
+    margin-left: 30px;
+}
+
+.details h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+    font-weight: 700;
+}
+
+.details p {
+    line-height: 1.8;
+    margin-bottom: 10px;
+}
+
+.cast,
+.reviews {
+    margin: 50px 30px;
+}
+
+.cast h2,
+.reviews h2 {
+    background-color: #402404;
+    color: #c2b9a2;
+    padding: 15px;
+    border-radius: 5px;
+    font-weight: 700;
+}
+
+.owl-carousel .item {
+    text-align: center;
+}
+
+
+.owl-carousel .item img {
+    width: auto;
+    height: 100%;
+    margin-bottom: 10px;
+    border-radius: 100%;
+}
+
+.owl-carousel .item p {
+    font-size: 16px;
+    font-weight: 700;
+    margin-top: 5px;
+}
+
+.owl-carousel .item span {
+    font-weight: 400;
+}
+
+.reviews .review {
+    background-color: #f9f5ec;
+    border: 1px solid #dcd2be;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+}
+
+.reviews .ver-mais {
+    background-color: #402404;
+    color: #f7f3e9;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+.footer-content {
+    background-color: #402404;
+    color: #f7f3e9;
+    text-align: center;
+    padding: 30px;
+}
+
+.footer-content a {
+    color: #f7f3e9;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+.footer-logo {
+    height: 40px;
+    margin-bottom: 20px;
+}
